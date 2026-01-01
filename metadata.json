@@ -1,0 +1,5 @@
+{
+  "name": "Royale Blackjack",
+  "description": "A high-end, object-oriented Blackjack experience with AI opponents, glassmorphism UI, and smooth GSAP animations.",
+  "requestFramePermissions": []
+}
